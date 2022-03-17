@@ -1,0 +1,17 @@
+{
+"companyName": "fairy",
+"productName": "web3D",
+"productVersion": "0.1",
+"dataUrl": "3d.data.unityweb",
+"wasmCodeUrl": "3d.wasm.code.unityweb",
+"wasmFrameworkUrl": "3d.wasm.framework.unityweb",
+"wasmSymbolsUrl": "3d.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "transparent",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
